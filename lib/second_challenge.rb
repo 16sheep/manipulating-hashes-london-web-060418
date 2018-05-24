@@ -6,8 +6,6 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
   
-  
-  smallestarr = []
   foodarr = groceries.values
   foodarr.flatten
 end
